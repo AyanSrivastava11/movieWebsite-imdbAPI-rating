@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    background-color: #eef5f6; /* Set your desired background color */
+    margin: 0; /* Reset default margin to ensure full coverage */
+    padding: 0; /* Reset default padding to ensure full coverage */
+  }
+  
